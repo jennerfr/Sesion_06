@@ -183,5 +183,12 @@ title(main = "Predicción para la serie de producción de electricidad",
       ylab = "Producción de electricidad (GWh)")
 ```
 
+Inpirado en:
+
+P. Cowpertwait & A. Metcalfe. (2009). Introductory Time Series with R. 233 Spring Street, New York, NY 10013, USA: Springer Science+Business Media, LLC.
+
+Otra referencia:
+
+J. Cryer & K. Chan. (2008). Time Series Analysis With Applications in R. 233 Spring Street, New York, NY 10013, USA: Springer Science+Business Media, LLC.
 
 
