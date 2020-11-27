@@ -308,3 +308,11 @@ ts.plot(cbind(Elec.ts, elec.pred), lty = 1:2,
         main = "Predicción de los datos de producción de electricidad",
         sub = "Predicción de 36 meses")
  ```
+ 
+Inpirado en:
+
+P. Cowpertwait & A. Metcalfe. (2009). Introductory Time Series with R. 233 Spring Street, New York, NY 10013, USA: Springer Science+Business Media, LLC.
+
+Otra referencia:
+
+J. Cryer & K. Chan. (2008). Time Series Analysis With Applications in R. 233 Spring Street, New York, NY 10013, USA: Springer Science+Business Media, LLC.
