@@ -163,7 +163,7 @@ Trend[100]*Seasonal[100]*Random[100]
 Elec.ts[100]
 ```
 
-Inpirado en:
+Inspirado en:
 
 P. Cowpertwait & A. Metcalfe. (2009). Introductory Time Series with R. 233 Spring Street, New York, NY 10013, USA: Springer Science+Business Media, LLC.
 
