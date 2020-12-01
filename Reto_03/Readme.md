@@ -2,7 +2,12 @@
 
 # Objetivo
 
+- Observar algunas características de los residuales cuando llevamos a cabo el ajuste de un modelo "adecuado" y realizar algunas predicciones con el modelo encontrado.
+
 # Requisitos
+
+- Tener instalado R y RStudio
+- Haber trabajado con el Prework y el Work 
 
 # Desarrollo
 
