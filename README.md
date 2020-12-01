@@ -15,6 +15,7 @@ Obtener predicciones de ventas, de la demanda de productos o servicios, que ayud
 
 #### Retos de la sesión 6:
 
+- [Reto 1](https://github.com/jennerfr/Sesion_06/tree/main/Reto_01)
 - [Reto 2](https://github.com/jennerfr/Sesion_06/tree/main/Reto_02)
 - [Reto 3](https://github.com/jennerfr/Sesion_06/tree/main/Reto_03)
 
