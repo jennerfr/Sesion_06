@@ -1,4 +1,4 @@
-# Postwork Sesión 6. Serie de tiempo de promedio por mes de suma de goles
+# Postwork Sesión 6. 
 
 # Objetivo
 
