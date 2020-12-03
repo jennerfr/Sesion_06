@@ -21,4 +21,4 @@ Obtener predicciones de ventas, de la demanda de productos o servicios, que ayud
 
 #### Postwork de la sesión 6
 
-- [Postwork]()
+- [Postwork](https://github.com/jennerfr/Sesion_06/tree/main/Postwork)
